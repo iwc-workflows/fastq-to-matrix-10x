@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2023-12-21T09:59:05.410152",
+            "datePublished": "2024-02-05T15:22:27.802677",
             "hasPart": [
                 {
                     "@id": "scrna-seq-fastq-to-matrix-10x-cellplex.ga"
@@ -93,7 +93,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/fastq-to-matrix-10x",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -179,7 +179,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.19"
+            "engineVersion": ">=0.75.20"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
@@ -218,7 +218,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/fastq-to-matrix-10x",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#test_scrna-seq-fastq-to-matrix-10x-v3_1",
@@ -255,7 +255,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.19"
+            "engineVersion": ">=0.75.20"
         }
     ]
 }
