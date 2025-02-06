@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2024-09-25T10:49:46.461314",
+            "datePublished": "2025-02-06T09:44:17.354263",
             "hasPart": [
                 {
                     "@id": "scrna-seq-fastq-to-matrix-10x-cellplex.ga"
@@ -93,7 +93,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/fastq-to-matrix-10x",
-            "version": "0.5"
+            "version": "0.6"
         },
         {
             "@id": "#galaxy",
@@ -218,7 +218,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/fastq-to-matrix-10x",
-            "version": "0.5"
+            "version": "0.6"
         },
         {
             "@id": "#test_scrna-seq-fastq-to-matrix-10x-v3_1",
